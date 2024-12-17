@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Rajibdas  
-- 👀 I’m interested in **Data Analytics**, **Business Intelligence**, and **AI/ML Development**.  
-- 🌱 I’m currently learning **Advanced SQL**, **Machine Learning**, and enhancing my expertise in **Python** and **Power BI**.  
-- 💞️ I’m looking to collaborate on **data-driven projects**, **AI/ML prototypes**, and **dashboards for actionable business insights**.  
+- 👋 Hi, I’m @Rajibdas A driven engineer with a dream to achieve greatness, I'm constantly seeking new challenges and refuse to settle for mediocrity. Currently, I'm immersed in the fascinating world of data, which perfectly fuels my curiosity. Thank you for taking the time to read a little about me. Have a wonderful day!
 - 📫 How to reach me:  
   - **Email:** rajibdas10.10.1999@gmail.com  
   - **LinkedIn:** [Rajib Das](https://linkedin.com/in/rajib-das)  
