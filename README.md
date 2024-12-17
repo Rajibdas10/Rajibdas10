@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Rajibdas. A driven engineer with a dream to achieve greatness, I'm constantly seeking new challenges and refuse to settle for mediocrity. Currently, I'm immersed in the fascinating world of data, which perfectly fuels my curiosity. Thank you for taking the time to read a little about me. Have a wonderful day! :)
+
 - 📫 Contacts:  
   - **Email:** rajibdas10.10.1999@gmail.com  
   - **LinkedIn:** [Rajib Das](https://linkedin.com/in/rajib-das)  
-  - **GitHub:** [Rajibdas10](https://github.com/Rajibdas10)  
+  
 - ⚡ Fun fact: Fueled by a detective's intuition and curious mind, I delve into complex datasets, extracting valuable insights and crafting compelling data-driven stories.  
 
 
