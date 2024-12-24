@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rajibdas. A driven engineer with a dream to achieve greatness, I'm constantly seeking new challenges and refuse to settle for mediocrity. Currently, I'm immersed in the fascinating world of data, which perfectly fuels my curiosity.
-
- Thank you for taking the time to read a little about me. Have a wonderful day! :)
+     Thank you for taking the time to read a little about me. Have a wonderful day! :)
 
 - 📫 Contacts:  
   - **Email:** rajibdas10.10.1999@gmail.com  
